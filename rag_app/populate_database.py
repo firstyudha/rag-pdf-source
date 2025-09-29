@@ -4,7 +4,7 @@ import shutil
 from langchain_community.document_loaders import PyPDFDirectoryLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain.schema.document import Document
-from rag_app.get_embedding_function import get_embedding_function
+from get_embedding_function import get_embedding_function
 from langchain_chroma import Chroma
 
 
