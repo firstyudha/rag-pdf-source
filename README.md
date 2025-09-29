@@ -14,7 +14,7 @@ loading data
 python rag_app/populate_database.py
 ```
 
-## Launchin
+## Run
 ```bash
 python main.py
 ```
